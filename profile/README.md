@@ -8,21 +8,34 @@
        width="358" height="140" align="right">
 </picture>
 
-O Centro de Estudos das Cidades – Laboratório Arq.Futuro, também conhecido como <b>Insper Cidades</b>, é um centro de conhecimento interdisciplinar do Insper focado no ensino e na pesquisa sobre o meio urbano. Este repositório contém todas as iniciativas de dados do Insper Cidades.
+O [Centro de Estudos das Cidades – Laboratório Arq.Futuro](https://www.insper.edu.br/pt/pesquisa/centro-de-estudos-das-cidades), também conhecido como <b>Insper Cidades</b>, é um centro de conhecimento interdisciplinar do Insper focado no ensino e na pesquisa sobre o meio urbano. Esta organização reúne as iniciativas de dados do Insper Cidades.
 
 ------------------------------------------------------------------------
 
 ## 🌐 Portais
 
-- [**Portal CiDados**](https://cidados.insper.edu.br/) — Portal CiDados (narrativas baseadas em dados).
-- [**ONMS**](https://observatorio.insper.edu.br/) — Portal do Observatório Nacional de Mobilidade Sustentável.
+- [**Portal CiDados**](https://cidados.insper.edu.br/) — narrativas baseadas em dados sobre as cidades brasileiras.
+- [**ONMS**](https://observatorio.insper.edu.br/) — Observatório Nacional de Mobilidade Sustentável.
 
-## 📦 Projetos em destaque
+## 📦 Pacotes em R
 
-- [**inspercidados**](https://github.com/portalcidados/inspercidados) — Pacote em R para acessar bases de dados do Portal CiDados.
-- [**insperplot**](https://github.com/portalcidados/insperplot) — Pacote em R para visualização de dados com a identidade visual Insper.
+- [**inspercidados**](https://github.com/inspercidades/inspercidados) — acessa, baixa e cita as bases de dados do Insper Cidades publicadas no Dataverse.
+- [**insperplot**](https://github.com/inspercidades/insperplot) — extensões do ggplot2 com a identidade visual do Insper.
 
-## Relacionado
+Os pacotes estão no [r-universe do Insper Cidades](https://inspercidades.r-universe.dev).
 
-- [**Dataverse**](https://dataverse.datascience.insper.edu.br/dataverse/cidades-portal-de-dados-urbanos)
-- [**CDIA**](https://www.insper.edu.br/pt/pesquisa/centro-de-dados-e-ia)
+## 📊 Estudos
+
+- Carboni, V. T. (2026). *Transporte à periferia ou moradia no centro: análise custo-benefício de alternativas para promover acessibilidade urbana em São Paulo a partir de um modelo de equilíbrio espacial*. Dissertação de mestrado em Políticas Públicas, Insper. [Código](https://github.com/inspercidades/transporte_versus_adensamento)
+- Costa, A. B. F. da, Dutra, A., Theil, G., & Mugnol, J. (2025). *Avaliação do impacto da Faixa Azul nos sinistros de trânsito em São Paulo*. Insper. [Texto](https://repositorio.insper.edu.br/handle/11224/8028) · [Código](https://github.com/inspercidades/faixa-azul)
+- Theil, G., & Costa, A. B. F. da (2024). *Para o bem ou para o mal: análise da capacidade que o governo tem de controlar a densidade habitacional*. Insper. [Texto](https://repositorio.insper.edu.br/handle/11224/7663) · [Código](https://github.com/inspercidades/ic-densidade)
+
+## 🗂️ Bases de dados
+
+- **ITBI** — em breve.
+- **Alvarás** — em breve.
+- [**Dataverse – Dados Urbanos**](https://dataverse.datascience.insper.edu.br/dataverse/cidades-portal-de-dados-urbanos) — repositório com as bases do Portal CiDados, com DOI para citação.
+
+## 🤝 Parceiros
+
+- [**CDIA**](https://www.insper.edu.br/pt/pesquisa/centro-de-dados-e-ia) — Centro de Dados e Inteligência Artificial do Insper.
