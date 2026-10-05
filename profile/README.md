@@ -32,9 +32,10 @@ Os pacotes estão no [r-universe do Insper Cidades](https://inspercidades.r-univ
 
 ## Bases de dados
 
-- **Transações imobiliárias registradas no ITBI em São Paulo** — em breve.
-- **Alvarás de licenciamento de novas edificações em São Paulo** — em breve.
-- [**Dataverse – Dados Urbanos**](https://dataverse.datascience.insper.edu.br/dataverse/cidades-portal-de-dados-urbanos) — repositório com as bases do Portal CiDados, com DOI para citação.
+- [**Transações imobiliárias registradas no ITBI em São Paulo**](https://github.com/inspercidades/data-itbi-spo) (em desenvolvimento)
+- [**Alvarás de licenciamento de novas edificações em São Paulo**](https://github.com/inspercidades/data-alvaras-spo) (em desenvolvimento)
+- [**PEMOB**](https://github.com/inspercidades/data-pemob) — dados da Pesquisa Nacional de Mobilidade Urbana publicados no Portal CiDados.
+- **Motiva** — embarques nos sistemas de metrô e VLT operados pela Motiva, publicados pelo ONMS.
 
 ## Parceiros
 
